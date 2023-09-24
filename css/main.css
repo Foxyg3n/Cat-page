@@ -302,17 +302,17 @@ nav .blur {
 }
 
 .cat1 {
-    background: url("../images/cat1.png") no-repeat center;
+    background: url("../images/cat1.jpg") no-repeat center;
     background-size: cover;
 }
 
 .cat2 {
-    background: url("../images/cat2.png") no-repeat center;
+    background: url("../images/cat2.jpg") no-repeat center;
     background-size: cover;
 }
 
 .cat3 {
-    background: url("../images/cat3.png") no-repeat center;
+    background: url("../images/cat3.jpg") no-repeat center;
     background-size: cover;
 }
 
@@ -329,7 +329,7 @@ nav .blur {
 }
 
 .adoption .header {
-    background: url("../images/background-header-second.png") no-repeat center;
+    background: url("../images/background-header-second.jpg") no-repeat center;
     background-size: cover;
 }
 
